@@ -1,0 +1,10 @@
+.imageContainer {
+  position: relative !important;
+}
+
+.imagesBrand {
+  filter: grayscale(1);
+  width: 500px !important;
+  height: 50px !important;
+  position: relative !important;
+}
